@@ -1,0 +1,4 @@
+#Wed Feb 19 11:34:54 CST 2020
+base.0=D\:\\Documentos\\visual code\\Proyectos_flutter\\Dribble_Design\\amazinui\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
