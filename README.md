@@ -1,4 +1,4 @@
-# amazinui
+# amazingui
 
 A new Flutter project.
 
